@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "/pages/home/"
   status = 200
+  force = false
