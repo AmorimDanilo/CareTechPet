@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/pages/home/"
+  status = 200
